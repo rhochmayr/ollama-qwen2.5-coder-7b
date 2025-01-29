@@ -62,4 +62,4 @@ lilypad run github.com/rhochmayr/ollama-qwen2.5-coder-7b:1.0.0 -i Prompt="write 
 ## Dependencies and Credits
 
 - [Ollama](https://ollama.com/)
-- [Qwen 2.5 Coder](https://qwenlm.github.io/blog/qwen2.5-coder-family/
+- [Qwen 2.5 Coder](https://qwenlm.github.io/blog/qwen2.5-coder-family/)
